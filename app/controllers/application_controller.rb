@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-  def
+  def cofe
     render html: "cofe_appへようこそ！"
   end
 end
